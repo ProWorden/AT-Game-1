@@ -1,0 +1,10 @@
+﻿  App.cpp
+  DxgiInfoManager.cpp
+  Graphics.cpp
+  WinMain.cpp
+  Window.cpp
+D:\Documents\Year 3\AT\Project 1\DirectX tutorials\DirectX tutorials\Window.cpp(57,1): warning C4297: 'Window::Window': function assumed not to throw an exception but does
+D:\Documents\Year 3\AT\Project 1\DirectX tutorials\DirectX tutorials\Window.cpp(57,1): message : __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+D:\Documents\Year 3\AT\Project 1\DirectX tutorials\DirectX tutorials\Window.cpp(74,1): warning C4297: 'Window::Window': function assumed not to throw an exception but does
+D:\Documents\Year 3\AT\Project 1\DirectX tutorials\DirectX tutorials\Window.cpp(74,1): message : __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+  DirectX tutorials.vcxproj -> D:\Documents\Year 3\AT\Project 1\DirectX tutorials\Debug\DirectX tutorials.exe
